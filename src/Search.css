@@ -1,0 +1,27 @@
+p {
+  color: #000;
+  margin-top: 170px;
+  font-size: 160%;
+}
+div.main {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+div.container{
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  
+}
+img{
+  min-height: auto;
+  max-height: 70px;
+  min-width: auto;
+  max-width: 70px;
+  padding-bottom: 20px;
+}
+#input-with-icon-adornment
+{
+  width: 580px;
+}
